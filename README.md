@@ -27,7 +27,7 @@ firebase: {
     messagingSenderId: '',
 }
 ```
-You can find this informations in your project overview, then click on add an application and select "web".
+You can find this information in your project overview, then click on add an application and select "web".
 
 ## Stay in touch
 

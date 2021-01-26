@@ -37,7 +37,7 @@ You can find this information in your project overview, then click on add an app
 ## Contributors
 
 - Blochaou François - [blochaou](https://github.com/blochaou)
-- Corentin Dugandzic - [decarim](https://github.com/decarim)
+- Corentin Dugandzic - [CorentinDug](https://github.com/CorentinDug)
 - Jérémy André - [cookiekastanie](https://github.com/cookiekastanie)
 
 ## License
